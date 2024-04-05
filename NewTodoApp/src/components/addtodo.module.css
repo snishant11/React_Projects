@@ -1,0 +1,11 @@
+.button{
+    width:80%;
+    min-width: 100px;
+    display: flow;
+}
+
+input{
+    width:100%;
+    border: 2px teal solid;
+    border-radius: 8px;
+}
